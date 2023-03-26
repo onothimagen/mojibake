@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
+title: Title goes here?
 ---
 
-Hello world etc
+This is the front page of my Git Hub blog....
+
+How's it looking?
